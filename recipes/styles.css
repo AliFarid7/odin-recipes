@@ -1,0 +1,25 @@
+.title
+{
+    font-weight: bold;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+}
+.potatoes{
+    color: burlywood;
+}
+.berry{
+    color: palevioletred;
+}
+.miso{
+    color: green;
+}
+
+
+.pic{
+    height: auto;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
